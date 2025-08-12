@@ -1,12 +1,108 @@
-# React + Vite
+Kannada Kaliyiri 🇮🇳📚
+Kannada Kaliyiri is a modern, beginner-friendly web app designed to help users learn Kannada vocabulary and phrases in an interactive and engaging way.
+Built with React, React Router, Zustand, and Tailwind CSS, it offers category-based learning and a built-in quiz for self-assessment.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+📌 Core MVP Features
+Routing & Navigation — Built with React Router and a Navbar for easy navigation.
 
-Currently, two official plugins are available:
+Modern UI — Styled with Tailwind CSS for a clean, responsive look.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learning Categories — Separate pages for:
 
-## Expanding the ESLint configuration
+Animals 🐅
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fruits 🍎
+
+Vegetables 🥦
+
+Birds 🐦
+
+Greetings 🙏
+
+Nouns 📘
+
+Adjectives 🎨
+
+Verbs 🏃
+
+Pronouns 👤
+
+Prepositions 📍
+
+About ℹ️
+
+Dynamic Data — JSON files store vocabulary for each category, loaded dynamically.
+
+Quiz Section — Timed quiz to test knowledge, with:
+
+Score tracking
+
+Navigation between questions
+
+State management via Zustand
+
+Reusable Components — Buttons, Cards, and utility functions for consistency.
+
+Mobile Friendly — Works on desktop, tablet, and mobile.
+
+🛠️ Tech Stack
+Frontend: React (Vite or CRA)
+
+Routing: React Router
+
+State Management: Zustand
+
+Styling: Tailwind CSS
+
+Data: Static JSON files
+
+🚀 Getting Started
+1️⃣ Clone the repo
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/kannada-kaliyiri.git
+cd kannada-kaliyiri
+2️⃣ Install dependencies
+bash
+Copy
+Edit
+npm install
+3️⃣ Run the app
+bash
+Copy
+Edit
+npm run dev
+📂 Project Structure
+bash
+Copy
+Edit
+src/
+├── components/       # Reusable UI components
+├── data/             # JSON files for each vocabulary category
+├── pages/            # Category pages + Quiz + About
+├── store/            # Zustand store for quiz state
+├── App.jsx           # Main app with routes
+└── index.jsx         # Entry point
+📖 Usage
+Navigate through different vocabulary categories to learn Kannada words.
+
+Click Take a Quiz to test your knowledge.
+
+View your score and track progress during a quiz session.
+
+💡 Future Improvements
+🔐 User authentication & profiles
+
+📊 Progress tracking & analytics
+
+🔊 Audio pronunciation for each word
+
+🎯 More interactive exercises
+
+🛠️ Admin/content management dashboard
+
+🤝 Contributing
+Pull requests are welcome!
+For major changes, open an issue first to discuss what you’d like to change.
