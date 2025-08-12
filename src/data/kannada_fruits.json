@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "kannada": "ಸೇಬು",
+    "english": "Apple",
+    "transliteration": "Sēbu"
+  },
+  {
+    "id": 2,
+    "kannada": "ಕಿತ್ತಳೆ",
+    "english": "Orange",
+    "transliteration": "Kittaḷe"
+  },
+  {
+    "id": 3,
+    "kannada": "ಬಾಳೆಹಣ್ಣು",
+    "english": "Banana",
+    "transliteration": "Bāḷehaṇṇu"
+  },
+  {
+    "id": 4,
+    "kannada": "ದ್ರಾಕ್ಷಿ",
+    "english": "Grapes",
+    "transliteration": "Drākṣi"
+  },
+  {
+    "id": 5,
+    "kannada": "ಮಾವಿನ ಹಣ್ಣು",
+    "english": "Mango",
+    "transliteration": "Māvina haṇṇu"
+  },
+  {
+    "id": 6,
+    "kannada": "ಪಪ್ಪಾಯಿ",
+    "english": "Papaya",
+    "transliteration": "Pappāyi"
+  },
+  {
+    "id": 7,
+    "kannada": "ಅನಾನಸ್",
+    "english": "Pineapple",
+    "transliteration": "Anānas"
+  },
+  {
+    "id": 8,
+    "kannada": "ಸ್ಟ್ರಾಬೆರಿ",
+    "english": "Strawberry",
+    "transliteration": "Strāberi"
+  },
+  {
+    "id": 9,
+    "kannada": "ಚೆರ್ರಿ",
+    "english": "Cherry",
+    "transliteration": "Cerri"
+  },
+  {
+    "id": 10,
+    "kannada": "ಕಲ್ಲಂಗಡಿ",
+    "english": "Watermelon",
+    "transliteration": "Kallaṅgaḍi"
+  },
+  {
+    "id": 11,
+    "kannada": "ಸೀತಾಫಲ",
+    "english": "Custard apple",
+    "transliteration": "Sītāphala"
+  },
+  {
+    "id": 12,
+    "kannada": "ಬೇರುಹಣ್ಣು",
+    "english": "Guava",
+    "transliteration": "Bēruhaṇṇu"
+  },
+  {
+    "id": 13,
+    "kannada": "ಪೇರಲ",
+    "english": "Pear",
+    "transliteration": "Pērala"
+  },
+  {
+    "id": 14,
+    "kannada": "ಹಣ್ಣುಮೆಣಸು",
+    "english": "Plum",
+    "transliteration": "Haṇṇumeṇasu"
+  },
+  {
+    "id": 15,
+    "kannada": "ಕಿತ್ತಳೆ ದ್ರಾಕ್ಷಿ",
+    "english": "Grapefruit",
+    "transliteration": "Kittaḷe drākṣi"
+  },
+  {
+    "id": 16,
+    "kannada": "ದಾಳಿಂಬೆ",
+    "english": "Pomegranate",
+    "transliteration": "Dāḷimbe"
+  },
+  {
+    "id": 17,
+    "kannada": "ಮಧುರಸಿಹಣ್ಣು",
+    "english": "Sapota / Chikoo",
+    "transliteration": "Madhurasihaṇṇu"
+  },
+  {
+    "id": 18,
+    "kannada": "ಕಿವಿ ಹಣ್ಣು",
+    "english": "Kiwi",
+    "transliteration": "Kivi haṇṇu"
+  },
+  {
+    "id": 19,
+    "kannada": "ಅಂಜೂರ",
+    "english": "Fig",
+    "transliteration": "Anjūra"
+  },
+  {
+    "id": 20,
+    "kannada": "ನೆಲ್ಲಿಕಾಯಿ",
+    "english": "Indian gooseberry (Amla)",
+    "transliteration": "Nellikāyi"
+  }
+]

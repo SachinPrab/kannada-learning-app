@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "What is the Kannada word for 'Hello'?",
+    "options": ["ನಮಸ್ಕಾರ", "ಹೌದು", "ಇಲ್ಲ", "ನೀವು"],
+    "answer": "ನಮಸ್ಕಾರ"
+  },
+  {
+    "id": 2,
+    "question": "What does 'ಧನ್ಯವಾದಗಳು' mean in English?",
+    "options": ["Thank you", "Sorry", "Goodbye", "Yes"],
+    "answer": "Thank you"
+  },
+  {
+    "id": 3,
+    "question": "How do you say 'Water' in Kannada?",
+    "options": ["ಹಣ್ಣು", "ನೀರು", "ಅಕ್ಕಿ", "ಹಾಲು"],
+    "answer": "ನೀರು"
+  },
+  {
+    "id": 4,
+    "question": "What is the Kannada word for 'Book'?",
+    "options": ["ಪುಸ್ತಕ", "ಕಾಗದ", "ಮನೆ", "ಬೆಂಕಿ"],
+    "answer": "ಪುಸ್ತಕ"
+  },
+  {
+    "id": 5,
+    "question": "What does 'ನೀವು ಹೇಗಿದ್ದೀರಿ?' mean?",
+    "options": ["How are you?", "Where are you?", "What is this?", "Who are you?"],
+    "answer": "How are you?"
+  },
+  {
+    "id": 6,
+    "question": "Which of these means 'Yes' in Kannada?",
+    "options": ["ಇಲ್ಲ", "ಹೌದು", "ಏನು", "ಎಲ್ಲಿ"],
+    "answer": "ಹೌದು"
+  },
+  {
+    "id": 7,
+    "question": "Which of these means 'No' in Kannada?",
+    "options": ["ಹೌದು", "ಇಲ್ಲ", "ನಮಸ್ಕಾರ", "ನೀವು"],
+    "answer": "ಇಲ್ಲ"
+  },
+  {
+    "id": 8,
+    "question": "What is the Kannada word for 'House'?",
+    "options": ["ಮನೆ", "ಅನ್ನ", "ಹಣ್ಣು", "ಮನೆಗೆ"],
+    "answer": "ಮನೆ"
+  },
+  {
+    "id": 9,
+    "question": "Which of these means 'Good Morning' in Kannada?",
+    "options": ["ಶುಭೋದಯ", "ಶುಭ ಸಂಜೆ", "ಶುಭ ರಾತ್ರಿ", "ಧನ್ಯವಾದಗಳು"],
+    "answer": "ಶುಭೋದಯ"
+  },
+  {
+    "id": 10,
+    "question": "What does 'ದಯವಿಟ್ಟು' mean?",
+    "options": ["Please", "Thank you", "Sorry", "Come here"],
+    "answer": "Please"
+  },
+  {
+    "id": 11,
+    "question": "What is the Kannada word for 'I'?",
+    "options": ["ನಾನು", "ನೀವು", "ಅವನು", "ಅವಳು"],
+    "answer": "ನಾನು"
+  },
+  {
+    "id": 12,
+    "question": "What is the Kannada word for 'We'?",
+    "options": ["ನಾವು", "ನೀವು", "ಅವರು", "ಅವು"],
+    "answer": "ನಾವು"
+  },
+  {
+    "id": 13,
+    "question": "Which of these means 'He' in Kannada?",
+    "options": ["ಅವಳು", "ಅವನು", "ಅವರು", "ಅದು"],
+    "answer": "ಅವನು"
+  },
+  {
+    "id": 14,
+    "question": "Which of these means 'She' in Kannada?",
+    "options": ["ಅವಳು", "ಅವನು", "ಅವರು", "ಅವು"],
+    "answer": "ಅವಳು"
+  },
+  {
+    "id": 15,
+    "question": "What is the Kannada word for 'On'?",
+    "options": ["ಮೇಲೆ", "ಕೆಳಗೆ", "ಹತ್ತಿರ", "ದೂರ"],
+    "answer": "ಮೇಲೆ"
+  },
+  {
+    "id": 16,
+    "question": "What is the Kannada word for 'Under'?",
+    "options": ["ಕೆಳಗೆ", "ಮೇಲೆ", "ಹತ್ತಿರ", "ದೂರ"],
+    "answer": "ಕೆಳಗೆ"
+  },
+  {
+    "id": 17,
+    "question": "Which of these means 'Near' in Kannada?",
+    "options": ["ಹತ್ತಿರ", "ದೂರ", "ಮೇಲೆ", "ಕೆಳಗೆ"],
+    "answer": "ಹತ್ತಿರ"
+  },
+  {
+    "id": 18,
+    "question": "Which of these means 'Far' in Kannada?",
+    "options": ["ದೂರ", "ಹತ್ತಿರ", "ಮೇಲೆ", "ಕೆಳಗೆ"],
+    "answer": "ದೂರ"
+  },
+  {
+    "id": 19,
+    "question": "What is the Kannada word for 'Food'?",
+    "options": ["ಅನ್ನ", "ನೀರು", "ಹಣ್ಣು", "ಮನೆ"],
+    "answer": "ಅನ್ನ"
+  },
+  {
+    "id": 20,
+    "question": "What does 'ಬನ್ನಿ' mean?",
+    "options": ["Come", "Go", "Eat", "Drink"],
+    "answer": "Come"
+  },
+  {
+    "id": 21,
+    "question": "Which of these means 'Go' in Kannada?",
+    "options": ["ಹೋಗಿ", "ಬನ್ನಿ", "ಕೂತು", "ಓದಿ"],
+    "answer": "ಹೋಗಿ"
+  },
+  {
+    "id": 22,
+    "question": "What is the Kannada word for 'School'?",
+    "options": ["ಶಾಲೆ", "ಮನೆ", "ಅಂಗಡಿ", "ಮನೆಗೆ"],
+    "answer": "ಶಾಲೆ"
+  },
+  {
+    "id": 23,
+    "question": "What is the Kannada word for 'Market'?",
+    "options": ["ಮಾರುಕಟ್ಟೆ", "ಶಾಲೆ", "ಅಂಗಡಿ", "ಮನೆ"],
+    "answer": "ಮಾರುಕಟ್ಟೆ"
+  },
+  {
+    "id": 24,
+    "question": "What does 'ನೀವು ಎಲ್ಲಿದ್ದಾರೆ?' mean?",
+    "options": ["Where are you?", "What are you doing?", "How are you?", "Who are you?"],
+    "answer": "Where are you?"
+  },
+  {
+    "id": 25,
+    "question": "Which of these means 'Good Night' in Kannada?",
+    "options": ["ಶುಭ ರಾತ್ರಿ", "ಶುಭೋದಯ", "ಶುಭ ಸಂಜೆ", "ಧನ್ಯವಾದಗಳು"],
+    "answer": "ಶುಭ ರಾತ್ರಿ"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "kannada": "ಹಕ್ಕಿ",
+    "english": "Bird",
+    "transliteration": "Hakki"
+  },
+  {
+    "id": 2,
+    "kannada": "ಗರುಡ",
+    "english": "Eagle",
+    "transliteration": "Garuda"
+  },
+  {
+    "id": 3,
+    "kannada": "ಗಬ್ಬಿ",
+    "english": "Sparrow",
+    "transliteration": "Gabbi"
+  },
+  {
+    "id": 4,
+    "kannada": "ಹಂಸ",
+    "english": "Swan",
+    "transliteration": "Hamsa"
+  },
+  {
+    "id": 5,
+    "kannada": "ಕಾಗೆ",
+    "english": "Crow",
+    "transliteration": "Kage"
+  },
+  {
+    "id": 6,
+    "kannada": "ಮಯೂರ",
+    "english": "Peacock",
+    "transliteration": "Mayura"
+  },
+  {
+    "id": 7,
+    "kannada": "ಗಿಡುಗ",
+    "english": "Vulture",
+    "transliteration": "Giduga"
+  },
+  {
+    "id": 8,
+    "kannada": "ಗುದ್ದಲಿ",
+    "english": "Woodpecker",
+    "transliteration": "Guddali"
+  },
+  {
+    "id": 9,
+    "kannada": "ಪಾರಿವಾಳ",
+    "english": "Pigeon",
+    "transliteration": "Parivala"
+  },
+  {
+    "id": 10,
+    "kannada": "ಬಾತುಕು",
+    "english": "Duck",
+    "transliteration": "Batuku"
+  },
+  {
+    "id": 11,
+    "kannada": "ಕೋಳಿ",
+    "english": "Hen",
+    "transliteration": "Koli"
+  },
+  {
+    "id": 12,
+    "kannada": "ಕೋಳಿ ಗಂಡು",
+    "english": "Rooster",
+    "transliteration": "Koli Gandu"
+  },
+  {
+    "id": 13,
+    "kannada": "ಗಿಳಿ",
+    "english": "Parrot",
+    "transliteration": "Gili"
+  },
+  {
+    "id": 14,
+    "kannada": "ಮೋನೆ",
+    "english": "Owl",
+    "transliteration": "Mone"
+  },
+  {
+    "id": 15,
+    "kannada": "ರಾಜ ಹಂಸ",
+    "english": "Flamingo",
+    "transliteration": "Raja Hamsa"
+  },
+  {
+    "id": 16,
+    "kannada": "ಹಕ್ಕಿ ಮರಿ",
+    "english": "Chick",
+    "transliteration": "Hakki Mari"
+  },
+  {
+    "id": 17,
+    "kannada": "ಬಾತುಕೋಳಿ",
+    "english": "Goose",
+    "transliteration": "Batukoli"
+  },
+  {
+    "id": 18,
+    "kannada": "ಕಾಗೆ ಮರಿ",
+    "english": "Crow Chick",
+    "transliteration": "Kage Mari"
+  },
+  {
+    "id": 19,
+    "kannada": "ರಾಜ ಗಿಳಿ",
+    "english": "Macaw",
+    "transliteration": "Raja Gili"
+  },
+  {
+    "id": 20,
+    "kannada": "ಗಿಳಿ ಮರಿ",
+    "english": "Parrot Chick",
+    "transliteration": "Gili Mari"
+  }
+]

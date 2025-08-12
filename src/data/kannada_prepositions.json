@@ -1,0 +1,17 @@
+[
+  { "id": 1, "english": "on", "kannada": "ಮೇಲೆ", "transliteration": "mele" },
+  { "id": 2, "english": "under", "kannada": "ಕೆಳಗೆ", "transliteration": "keLage" },
+  { "id": 3, "english": "in", "kannada": "ಒಳಗೆ", "transliteration": "oLage" },
+  { "id": 4, "english": "out", "kannada": "ಹೊರಗೆ", "transliteration": "horage" },
+  { "id": 5, "english": "before", "kannada": "ಮುಂಬಡೆ", "transliteration": "mumbaDe" },
+  { "id": 6, "english": "after", "kannada": "ನಂತರ", "transliteration": "nantara" },
+  { "id": 7, "english": "between", "kannada": "ಮಧ್ಯೆ", "transliteration": "madhye" },
+  { "id": 8, "english": "near", "kannada": "ಹತ್ತಿರ", "transliteration": "hattira" },
+  { "id": 9, "english": "far", "kannada": "ದೂರ", "transliteration": "doora" },
+  { "id": 10, "english": "with", "kannada": "ಜೊತೆ", "transliteration": "jote" },
+  { "id": 11, "english": "without", "kannada": "ಇಲ್ಲದೆ", "transliteration": "illade" },
+  { "id": 12, "english": "above", "kannada": "ಮೇಲ್ಮುಖ", "transliteration": "melmukha" },
+  { "id": 13, "english": "below", "kannada": "ಕೆಳಮುಖ", "transliteration": "keLemukha" },
+  { "id": 14, "english": "towards", "kannada": "ಕಡೆಗೆ", "transliteration": "kaDege" },
+  { "id": 15, "english": "inside", "kannada": "ಒಳಭಾಗ", "transliteration": "oLabhaaga" }
+]

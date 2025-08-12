@@ -1,0 +1,17 @@
+[
+  { "id": 1, "english": "I", "kannada": "ನಾನು", "transliteration": "naanu" },
+  { "id": 2, "english": "we", "kannada": "ನಾವು", "transliteration": "naavu" },
+  { "id": 3, "english": "you (singular)", "kannada": "ನೀನು", "transliteration": "neenu" },
+  { "id": 4, "english": "you (plural/formal)", "kannada": "ನೀವು", "transliteration": "neevu" },
+  { "id": 5, "english": "he", "kannada": "ಅವನು", "transliteration": "avanu" },
+  { "id": 6, "english": "she", "kannada": "ಅವಳು", "transliteration": "avaLu" },
+  { "id": 7, "english": "it", "kannada": "ಅದು", "transliteration": "adu" },
+  { "id": 8, "english": "they (male)", "kannada": "ಅವರು", "transliteration": "avaru" },
+  { "id": 9, "english": "they (female)", "kannada": "ಅವರು", "transliteration": "avaru" },
+  { "id": 10, "english": "this", "kannada": "ಇದು", "transliteration": "idu" },
+  { "id": 11, "english": "that", "kannada": "ಅದು", "transliteration": "adu" },
+  { "id": 12, "english": "these", "kannada": "ಇವು", "transliteration": "ivu" },
+  { "id": 13, "english": "those", "kannada": "ಅವು", "transliteration": "avu" },
+  { "id": 14, "english": "my", "kannada": "ನನ್ನ", "transliteration": "nanna" },
+  { "id": 15, "english": "our", "kannada": "ನಮ್ಮ", "transliteration": "namma" }
+]

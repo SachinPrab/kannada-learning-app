@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "kannada": "ನಾಯಿ",
+    "english": "Dog",
+    "transliteration": "Nāyi"
+  },
+  {
+    "id": 2,
+    "kannada": "ಬೆಕ್ಕು",
+    "english": "Cat",
+    "transliteration": "Bekku"
+  },
+  {
+    "id": 3,
+    "kannada": "ಕುದುರೆ",
+    "english": "Horse",
+    "transliteration": "Kudure"
+  },
+  {
+    "id": 4,
+    "kannada": "ಗೋವು",
+    "english": "Cow",
+    "transliteration": "Gōvu"
+  },
+  {
+    "id": 6,
+    "kannada": "ಮೇಕೆ",
+    "english": "Goat",
+    "transliteration": "Mēke"
+  },
+  {
+    "id": 7,
+    "kannada": "ಹಂದಿ",
+    "english": "Pig",
+    "transliteration": "Handi"
+  },
+  {
+    "id": 8,
+    "kannada": "ಆನೆ",
+    "english": "Elephant",
+    "transliteration": "Āne"
+  },
+  {
+    "id": 9,
+    "kannada": "ಸಿಂಹ",
+    "english": "Lion",
+    "transliteration": "Simha"
+  },
+  {
+    "id": 10,
+    "kannada": "ಹುಲಿ",
+    "english": "Tiger",
+    "transliteration": "Huli"
+  },
+  {
+    "id": 11,
+    "kannada": "ಕರಡಿ",
+    "english": "Bear",
+    "transliteration": "Karadi"
+  },
+  {
+    "id": 12,
+    "kannada": "ಕೋತಿ",
+    "english": "Monkey",
+    "transliteration": "Kōti"
+  },
+  {
+    "id": 13,
+    "kannada": "ಜಿಂಕೆ",
+    "english": "Deer",
+    "transliteration": "Jinke"
+  },
+  {
+    "id": 14,
+    "kannada": "ಮೊಲ",
+    "english": "Rabbit",
+    "transliteration": "Mola"
+  },
+  {
+    "id": 15,
+    "kannada": "ನರಿ",
+    "english": "Fox",
+    "transliteration": "Nari"
+  },
+  {
+    "id": 16,
+    "kannada": "ನಾಯಿ ಮರಿಗಳು",
+    "english": "Puppies",
+    "transliteration": "Nāyi marigaḷu"
+  },
+  {
+    "id": 17,
+    "kannada": "ಬೆಕ್ಕು ಮರಿಗಳು",
+    "english": "Kittens",
+    "transliteration": "Bekku marigaḷu"
+  }
+]
