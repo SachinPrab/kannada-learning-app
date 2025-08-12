@@ -18,7 +18,8 @@ Built with **React Router** for navigation and **Zustand** for state management.
 - **React Router** – Navigation between pages
 - **Zustand** – State management
 - **JSON** – Stores quiz data
-
+- **TailwindCSS** - Styling pages
+- **ShadcnUI** - Creating reusable components
 ---
 
 ## 🚀 Usage
